@@ -5,7 +5,9 @@
 let nombre = "Mad";
 let apellido = "Max";
 
-let presentacion = "";
+let presentacion = `Me llamo ${nombre} ${apellido}?`;
+
+console.log(presentacion);
 
 /**
  * Pregunta 1: ¿Qué valor tengo que asignar a 'presenetacion' para que me muestre pantalla:

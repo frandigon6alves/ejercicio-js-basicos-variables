@@ -16,7 +16,11 @@
  * 
  */
 
-let numeroGatos = 10;
+let numeroGatos = 34;
+let próximaPareja = "tu mismo";
+let pais = "Genóvia";
+let trabajo = "heredero millonario"
 
-let futuro = "tendréis " + numeroGatos + " gatos";
+
+let futuro = `tendréis ${numeroGatos} gatos, estarás casado con ${próximaPareja}, vivindo en ${pais} y será ${trabajo}.`;
 console.log(futuro);
